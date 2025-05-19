@@ -5,5 +5,5 @@ func Bar() {
 }
 
 func Foo() {
-	println("test foo")
+	println("test foov0.1.0")
 }
