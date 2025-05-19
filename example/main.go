@@ -6,4 +6,5 @@ import (
 
 func main() {
 	mypkg.Bar()
+	mypkg.Foo()
 }
