@@ -1,2 +1,2 @@
-github.com/spark4862/workspacetest/mypkg v0.0.0-20250519020918-0b9c993480b0 h1:CGFJQM3mMaw6/jrfGcRiVJdOTPpgWqRZSnhYCu3u8t4=
-github.com/spark4862/workspacetest/mypkg v0.0.0-20250519020918-0b9c993480b0/go.mod h1:QzwGXKLh5gEMhORPmkoD+56DoTc4plK/4uVg8zWy2ao=
+github.com/spark4862/workspacetest/pkga v0.1.1 h1:bn1utUgMfvbptXC5NU3YMUev639YmPBoqkz8QBcstmw=
+github.com/spark4862/workspacetest/pkga v0.1.1/go.mod h1:AWOVNTH3WKja4DtXunim/ZBHXzBzRB+x6zru7W8RTjs=
