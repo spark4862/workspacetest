@@ -1,10 +1,10 @@
 package main
 
 import (
-	"github.com/spark4862/workspacetest/mypkg"
+	"github.com/spark4862/workspacetest/pkga"
 )
 
 func main() {
-	mypkg.Bar()
-	mypkg.Foo()
+	pkga.Bar()
+	pkga.Foo()
 }
